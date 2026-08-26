@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 8 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [brute force](#brute-force) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -56,6 +56,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
@@ -85,6 +86,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
