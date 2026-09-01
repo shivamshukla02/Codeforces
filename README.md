@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 8 |
+| 19 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (14)
-- [math](#math) (3)
+- [math](#math) (4)
 - [sortings](#sortings) (2)
 - [strings](#strings) (6)
 
@@ -78,6 +78,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 
 ### sortings
