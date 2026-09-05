@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 8 |
+| 22 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (4)
@@ -28,6 +29,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 
 ### brute force
 
