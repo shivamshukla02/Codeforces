@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 9 |
+| 33 | 10 |
 
 ---
 
@@ -19,6 +19,7 @@
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (24)
 - [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
 
@@ -104,6 +105,12 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 
 ### sortings
 
