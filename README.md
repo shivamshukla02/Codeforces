@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 11 |
+| 38 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (29)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
@@ -100,7 +100,9 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1351A | [A+B (Trial Problem)](https://codeforces.com/contest/1351/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1351/A%20-%20A%2BB%20(Trial%20Problem)/solution.java) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.java) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 
