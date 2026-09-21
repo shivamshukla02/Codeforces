@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 11 |
+| 42 | 11 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (2)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (31)
-- [math](#math) (9)
+- [implementation](#implementation) (32)
+- [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
@@ -50,6 +50,7 @@
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 935A | [Fafa and his Company](https://codeforces.com/contest/935/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/935/A%20-%20Fafa%20and%20his%20Company/solution.java) |
+| 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 
 ### constructive algorithms
@@ -105,6 +106,7 @@
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.java) |
+| 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
@@ -121,6 +123,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
+| 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 
 ### number theory
