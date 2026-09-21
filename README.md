@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 11 |
+| 43 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 
 ### brute force
 
