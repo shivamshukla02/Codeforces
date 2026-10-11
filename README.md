@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 13 |
+| 63 | 15 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (5)
+- [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -21,10 +22,11 @@
 - [games](#games) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (46)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (11)
+- [ternary search](#ternary-search) (1)
 
 ---
 
@@ -44,6 +46,12 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.java) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.java) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 
 ### bitmasks
 
@@ -162,6 +170,7 @@
 | 620A | [Professor GukiZ's Robot](https://codeforces.com/contest/620/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/620/A%20-%20Professor%20GukiZ's%20Robot/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.java) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 | 2010A | [Alternating Sum of Numbers](https://codeforces.com/contest/2010/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2010/A%20-%20Alternating%20Sum%20of%20Numbers/solution.java) |
@@ -197,6 +206,12 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 
 ---
 
