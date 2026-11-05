@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 15 |
+| 86 | 15 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (59)
 - [math](#math) (27)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (6)
 - [strings](#strings) (14)
 - [ternary search](#ternary-search) (1)
 
@@ -105,6 +105,8 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.java) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.java) |
 
@@ -219,6 +221,8 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 
 ### strings
