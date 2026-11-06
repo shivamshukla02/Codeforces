@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 86 | 15 |
+| 87 | 15 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (59)
 - [math](#math) (27)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (14)
 - [ternary search](#ternary-search) (1)
 
@@ -102,6 +102,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
@@ -218,6 +219,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
