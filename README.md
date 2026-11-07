@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 15 |
+| 88 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (59)
-- [math](#math) (27)
+- [math](#math) (28)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (7)
 - [strings](#strings) (14)
@@ -195,6 +195,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
+| 1371A | [Magical Sticks](https://codeforces.com/contest/1371/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1371/A%20-%20Magical%20Sticks/solution.java) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.java) |
