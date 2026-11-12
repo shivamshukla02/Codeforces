@@ -6,22 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 15 |
+| 92 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (9)
-- [implementation](#implementation) (61)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (62)
 - [math](#math) (28)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (7)
@@ -46,6 +47,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.java) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.java) |
+| 2290G1 | [Lakeside Trail (Easy Version)](https://codeforces.com/contest/2290/problem/G1) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2290/G1%20-%20Lakeside%20Trail%20(Easy%20Version)/solution.java) |
 
 ### binary search
 
@@ -85,6 +87,12 @@
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.java) |
+
 ### expression parsing
 
 | # | Problem | Difficulty | Solution |
@@ -106,6 +114,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.java) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.java) |
@@ -149,6 +158,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 620A | [Professor GukiZ's Robot](https://codeforces.com/contest/620/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/620/A%20-%20Professor%20GukiZ's%20Robot/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
+| 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.java) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/705/A%20-%20Hulk/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
