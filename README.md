@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 92 | 16 |
+| 93 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
@@ -47,6 +47,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.java) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.java) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2290/A%20-%20Three%20Piles/solution.java) |
 | 2290G1 | [Lakeside Trail (Easy Version)](https://codeforces.com/contest/2290/problem/G1) | Unrated | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/2290/G1%20-%20Lakeside%20Trail%20(Easy%20Version)/solution.java) |
 
 ### binary search
