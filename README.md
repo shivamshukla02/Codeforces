@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 100 | 16 |
+| 101 | 16 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [math](#math) (28)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (7)
-- [strings](#strings) (19)
+- [strings](#strings) (20)
 - [ternary search](#ternary-search) (1)
 
 ---
@@ -252,6 +252,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/43/A%20-%20Football/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/shivamshukla02/Codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
